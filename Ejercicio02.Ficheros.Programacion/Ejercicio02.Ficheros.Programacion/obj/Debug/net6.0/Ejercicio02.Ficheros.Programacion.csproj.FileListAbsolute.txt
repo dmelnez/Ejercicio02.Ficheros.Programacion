@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio02.Ficheros.Programacion.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio02.Ficheros.Programacion.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio02.Ficheros.Programacion.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio02.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio02.Ficheros.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\refint\Ejercicio02.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio02.Ficheros.Programacion.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio02.Ficheros.Programacion\Ejercicio02.Ficheros.Programacion\obj\Debug\net6.0\ref\Ejercicio02.Ficheros.Programacion.dll

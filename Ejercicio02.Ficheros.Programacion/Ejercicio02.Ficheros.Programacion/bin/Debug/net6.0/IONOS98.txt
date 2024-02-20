@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+| REFERENCIA ORDEN DE LA ORDEN DE DOMICIALIZACION:    
+| Identifcador del Acreedor:  
+| Nombre el Acreedor: 
+| Direccion: 
+| Codigo Postal - Poblacion - Provincia/Pais: 
+|--------------------------------------------------------------------------------
+| Nombre del Deudorer/es/ 
+| Direccion del Deudor 
+| Codigo Postal - Poblacion - Provincia/Pais: 
+| Numero de Cuenta - IBAN                                     Swift - BIC        |
+|
+|
+| Fecha - Localidad                         | Tipo de Pago    R[]      U[]       |
+|--------------------------------------------------------------------------------|
+| Mediante la firma de esta orden de domiciliación, el deudor autoriza (A) al    |
+| al acreedor a enviar instrucciones a la al acreedor a enviar instrucciones a   |
+| la entidad del deudor para adeudar su cuenta y (B) ) a la entidad para         |
+| efectuar los adeudos en su cuenta siguiendo las instrucciones del acreedor.    |
+| Como parte de sus derechos, el deudor está legitimado al reembolso por su      |
+| entidad  en los términos y condiciones del contrato suscritocon la misma. La   |
+| a solicitud de reembolso deberá efectuarse dentro de las ocho semanas que      |
+| siguen a la fecha de adeudo en cuenta. Puede obtener información adicional     |
+| sobre sus derechos en su entidad financiera.                                   |
+|--------------------------------------------------------------------------------|

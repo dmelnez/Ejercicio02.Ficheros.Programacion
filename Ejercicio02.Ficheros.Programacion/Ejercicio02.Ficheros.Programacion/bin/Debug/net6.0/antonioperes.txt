@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+| REFERENCIA ORDEN DE LA ORDEN DE DOMICIALIZACION:     1
+| Identifcador del Acreedor:  ES86000Z53010115
+| Nombre el Acreedor: IONOS
+| Direccion: Calle Barbero 1
+| Codigo Postal - Poblacion - Provincia/Pais: 41020
+|--------------------------------------------------------------------------------
+| Nombre del Deudorer/es/ antonio
+| Direccion del Deudor calle barba
+| Codigo Postal - Poblacion - Provincia/Pais: 8989
+| Numero de Cuenta - IBAN                                     Swift - BIC        |
+|8989898989898989
+|
+| Fecha - Localidad                         | Tipo de Pago    R[]      U[]       |
+|20/02/2024 12:49:12r
+|--------------------------------------------------------------------------------|
+| Mediante la firma de esta orden de domiciliación, el deudor autoriza (A) al    |
+| al acreedor a enviar instrucciones a la al acreedor a enviar instrucciones a   |
+| la entidad del deudor para adeudar su cuenta y (B) ) a la entidad para         |
+| efectuar los adeudos en su cuenta siguiendo las instrucciones del acreedor.    |
+| Como parte de sus derechos, el deudor está legitimado al reembolso por su      |
+| entidad  en los términos y condiciones del contrato suscritocon la misma. La   |
+| a solicitud de reembolso deberá efectuarse dentro de las ocho semanas que      |
+| siguen a la fecha de adeudo en cuenta. Puede obtener información adicional     |
+| sobre sus derechos en su entidad financiera.                                   |
+|--------------------------------------------------------------------------------|
